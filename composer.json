@@ -1,5 +1,5 @@
 {
-    "name": "LucasSouzaa/pt-br-validator",
+    "name": "lucassouzaa/pt-br-validator",
     "description": "Uma biblioteca contendo validações de formatos Brasileiros, para o Laravel 5",
     "license" : "MIT",
     "authors": [
